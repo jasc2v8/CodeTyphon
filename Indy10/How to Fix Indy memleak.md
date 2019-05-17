@@ -14,8 +14,8 @@ Change To:
 	
 Recompile:
 
-1Open a pl_indy sample project
-1Project Inspector, Required Packages, double-click on pl_indy, then press Compile Package menu icon
+	1 Open a pl_indy sample project
+	1 Project Inspector, Required Packages, double-click on pl_indy, then press Compile Package menu icon
 		
 # Background
 
