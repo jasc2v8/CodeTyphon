@@ -19,9 +19,9 @@ Recompile:
 		
 # Background
 
-1 Project Options, Compiler Options: check Use Heaptrc unit.
-1 Run a sample pl_indy project
-1 Haptrc will shows a leak of 3 memory blocks
-1 After the edit and recompile above, run the sample pl_indy project again.
-1 Haptrc will show 0 memory blocks leaked
+- Project Options, Compiler Options: check Use Heaptrc unit.
+- Run a sample pl_indy project
+- Haptrc will shows a leak of 3 memory blocks
+- After the edit and recompile above, run the sample pl_indy project again.
+- Haptrc will show 0 memory blocks leaked
 
